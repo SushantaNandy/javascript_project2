@@ -6,6 +6,11 @@ https://sushantanandy.github.io/javascript_project2/
 
 Warning: It is a very addictive game. Play at your own risk. 😅
 
+# Screen Shot of the Game
+
+<img width="1378" alt="Screenshot 2023-09-17 at 11 29 46 AM" src="https://github.com/SushantaNandy/javascript_project2/assets/99649278/bb33e0ea-3f63-4ec0-9ad3-cf56f48f0b48">
+
+
 # Rule of playing the Game
 1. There are two players (Player 1 and Player 2).
 2. The maximum score is 100.
